@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://geo-test-2.hirebit-demo.xyz/sitemap.xml
